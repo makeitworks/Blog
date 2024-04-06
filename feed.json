@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Aslan",
+    "description": "",
+    "home_page_url": "https://aslandev.top",
+    "feed_url": "https://aslandev.top/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Aslan"
+    },
+    "items": [
+    ]
+}
